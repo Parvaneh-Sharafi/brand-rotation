@@ -17,7 +17,7 @@ var howElliptical = 1;
 
 var aA = null;
 var oDiv = null;
-
+//function for onloading
 window.onload = function () {
   var i = 0;
   var oTag = null;
