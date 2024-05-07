@@ -57,7 +57,7 @@ window.onload = function () {
     mouseY /= 5;
   };
 
-  setInterval(update, 12);
+  setInterval(update, 10);
 };
 
 function update() {
